@@ -1,4 +1,9 @@
 # [WIP] Data Augmentation
+Albumentations  
+Matplotlib  
+Rich  
+Click  
+# Current Function
 ## 1. Vertical Flip
 ## 2. Horizontal Flip
 ## 3. Random Rotate 90
